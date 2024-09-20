@@ -1,0 +1,2 @@
+este es el fichero que quiero guardar en Git hub de momento
+para la práctica de ets
